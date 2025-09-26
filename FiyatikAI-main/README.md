@@ -44,7 +44,7 @@ FiyatikAI/
 
 
 👩‍💻 Geliştiriciler
-Büşra Mina AL    www.linkedin.com/in/bmi̇nal60135806
+Büşra Mina AL    
 Şevval ŞAHİN
 
 📜 Lisans
